@@ -1,0 +1,12 @@
+
+1) DOT SOC-CODE TO CENSUS 2010
+
+We followed Acemoglu and Autor (2011). For the new SOC-CODE in ONET 2017 not in their list we look at the correspondence with DOT 2016 and then at its correspondence to 2010 to express all in CENSUS 2010. 
+(see excel file from Acemoglu and Autor in this folder)
+
+2) CENSUS OCCUPATIONS TO occ1990dd
+
+We match occupations each year to the occupational category created by Autor and Dorn(2013) 
+
+To do that, we follow Deaming (2017) because he has an updated version of that crosswalk for 2010 and 2016. For some recent occupations not found in Deaming data, we look at the DOT correspondence to 2010 and then to occ1990_dd 
+
