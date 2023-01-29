@@ -1,0 +1,55 @@
+Bibliography
+Dictionary of Occupational Titles (DOT):  Revised Fourth Edition, 1991
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 6100. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Belo, Frederico; Lin, Xiaoji; Li, Jun; Zhao, Xiaofei, "Labor-Force
+Heterogeneity and Asset Prices: The Importance of Skilled Labor." NBER
+Working Paper No. 21487. Cambridge, MA: National Bureau of Economic
+Research, Aug 2015. DOI: 10.3386/w21487
+Full text PDF: http://www.nber.org/papers/w21487.pdf
+
+2. Capatina, Elena, "Skills and the evolution of wage inequality." Labour
+Economics. in press 2014,. DOI: 10.1016/j.labeco.2014.03.003
+Full text PDF: http://www.nber.org/papers/w21487.pdf
+
+3. Cook, Judith A.; Burke-Miller, Jane K.; Grey, Dennis D., "Reasons for
+Job Separations Among
+People with Psychiatric Disabilities
+." DRC Working Paper 2014-08. Mathematica Center for Studying Disability
+Policy, Jul 2014.
+Full text PDF: http://www.disabilitypolicyresearch.org/~/media/publications/pdfs/disability/drc_wp_2014-08_job_separations.pdf
+
+4. Grodsky, Eric; Pager, Devah, "The structure of disadvantage: Individual
+and occupational determinants of the black-white wage gap." American
+Sociological Review. Aug 2001, 66, (4), 542 - 567.
+Full text: http://www.jstor.org/stable/3088922
+
+5. Gupta, Nabanita Datta, "Probabilities of Job Choice and Employer
+Selection and Male-Female Occupational Differences (Hundred and Fifth
+Annual Meeting of the American Economic Association)." American Economic
+Review. May 1993, 83, (3), 57 - 61.
+Full text: http://www.jstor.org/stable/3088922
+
+6. Hirsch, Barry T.; Macpherson, David A.; Hardy, Melissa A., "Occupational
+age structure and access for older workers." Industrial and Labor Relations
+Review. Apr 2000, 53, (3), 401 - 418.
+Full text: http://www.jstor.org/stable/2695966
+
+7. McGoldrick, KimMarie; Robst, John, "Gender difference in overeducation:
+A test of the theory of differential overqualification." American Economic
+Review. May 1996, 86, (2), 280 - 284.
+Full text: http://www.jstor.org/stable/2695966
+
+8. Wojan, Timothy R., "The composition of rural employment growth in the
+'new economy'." American Journal of Agricultural Economics. Aug 2000, 82,
+(3), 594 -. DOI: 10.1111/0002-9092.00049
+Full text: http://www.jstor.org/stable/2695966

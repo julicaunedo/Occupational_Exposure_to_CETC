@@ -1,0 +1,229 @@
+APPENDIX D                                                                      
+                                                                                
+HOW TO USE THE DOT FOR JOB PLACEMENT                                            
+                                                                                
+ Within the public Employment Service system the primary purpose for assigning  
+a DOT code and title to a job applicant or employer job order is to facilitate  
+the process of ``finding people for jobs and jobs for people''.  The            
+occupational code is a method of searching files to locate qualified applicants 
+and to match their qualifications with available job orders.  In some           
+Employment Service offices, the Employment Service automated system provides    
+on-line computerized access to job openings arranged in terms of DOT            
+occupational codes making it possible for applicants to match their background  
+and experience to job openings related to their interests.                      
+                                                                                
+ Proper classification of both job openings and job applicants is vital to the  
+efficient operation of the Employment Service system, and to maintain the       
+accuracy of statistical reporting systems which are based on the DOT coding     
+structure. The coding structure of the DOT is specifically designed to          
+facilitate this process. The unique 9-digit code shown for each occupation      
+allows job interviewers to perform file searches providing the linkage between  
+an applicant's work experience and employer job orders.                         
+                                                                                
+ The section entitled ``How to Find an Occupational Title and Code'' describes  
+how to use the Occupational Group Arrangement, the Industry Arrangement, the    
+Alphabetical Index and other DOT components to assure proper occupational       
+coding of jobs and applicants.  The occupational classification system in the   
+revised fourth edition of the DOT arranges occupational titles within a given   
+technology in order of work-performance complexity. It can assist in            
+identifying occupational progression and skill transfers vertically within a    
+technology or horizontally among closely related technologies. Each             
+occupational definition also provides essential job placement information by    
+indicating the industry or industries in which a given occupation is found and  
+by describing job tasks and task variables.                                     
+                                                                                
+  The use of the DOT for job placement is summarized here in relation to the    
+following Employment Service operations: Classifying Job Applications;          
+Classifying Job Orders; Matching Workers to Orders; and Assisting Special       
+Applicant Groups.                                                               
+                                                                                
+1) Classifying Job Applicants                                                   
+                                                                                
+ Job interviewers will find it useful to structure the applicant interview in   
+accordance with the way information is provided in a DOT occupational           
+definition. By framing specific questions to elicit detailed information        
+concerning the jobseeker's training, experience and preferences, a job          
+interviewer can assess the individual in terms of fields of work, job content   
+and worker requirements for an individual occupation in the Dictionary. An      
+appropriate code number and job title can then be assigned to complete the      
+interview process. (See ``How to Find an Occupational Title and Code''.)        
+                                                                                
+ To ensure the correct occupational code and title is assigned to each          
+application, the following steps should be followed:                            
+                                                                                
+a) Using information obtained from the job seeker, make a tentative selection   
+   of an occupational code and title.                                           
+                                                                                
+b) Review the requirements of the particular occupation selected, and match     
+   them against past experience, training, job preferences, job interests and   
+   any test or assessment results of the applicant to verify that the           
+   occupation best fits the applicant for purposes of job placement.            
+                                                                                
+                                                                                
+c) Supplement the data with labor market information reflecting job             
+   opportunities in the local area.  Review all the information obtained and    
+   assign a final primary occupational code and title to the applicant.  Be     
+   sure the assigned code reflects the jobseeker's highest level of achievement 
+   and ability.                                                                 
+                                                                                
+d) Additional codes and titles should be assigned as appropriate by repeating   
+   the steps outlined above to identify the applicant's related skills and      
+   training.                                                                    
+                                                                                
+2) Classifying Job Orders                                                       
+                                                                                
+ Assigning appropriate classification codes and titles to job openings is a     
+process complementary to that of classifying job applicants.                    
+                                                                                
+ The order taker should review the structure content of job definitions in the  
+Dictionary to assure that all of the required information needed for proper     
+classification is obtained.  The information needed is that contained in the    
+lead statement and task element statements of each occupational definition.     
+(See ``Parts of the Occupational Definition''.)                                 
+                                                                                
+ Occupational definitions in the DOT are written to reflect the most typical    
+characteristics of a job as it occurs in the American economy.  Task element    
+statements in the definitions may not always coincide with the way work is      
+performed in particular establishments or localities.                           
+                                                                                
+ If the occupational code and title is not easily determined, the DOT           
+definition finally selected should be reviewed carefully.  If alternate methods 
+of performing a job are described in the DOT definition, the order taker should 
+review the definition with the employer to determine which description fits the 
+firm's operation.  After determining which methods described in the DOT         
+definition are actually used in the particular establishment involved, the      
+order taker may assign an appropriate DOT code.                                 
+                                                                                
+ Only part of the jobs contained in the DOT are found in any given labor market 
+area. In some instances, carefully developed desk aids containing titles, codes 
+and definitions may be useful in assigning DOT codes and titles. However, a     
+person or job should never be forced into a code simply because it is common in 
+the local labor market.                                                         
+                                                                                
+3) Matching Workers to Orders                                                   
+                                                                                
+ The DOT occupational definitions are the bridge in the job-matching process,   
+linking qualified applicants with suitable job openings.  Whether a placement   
+office operates under a manual or computerized system, or is in transition, a   
+successful job match is critically dependent upon correct input into the        
+system.                                                                         
+                                                                                
+ The importance of correct input is more crucial, and reliance on the DOT       
+classification system may be even greater, in the case of computer-assisted     
+placement systems which include job matching.                                   
+                                                                                
+ Keep in mind that it is generally easier to find a good match when you know    
+the following information:                                                      
+                                                                                
+. Job tasks workers are required to perform                                     
+. The purpose of the work                                                       
+. Machines, tools, equipment or work aids used                                  
+. Materials, products, subject matter (academic discipline) or services         
+  involved                                                                      
+. Instructions received and the independent judgment that a worker exercises    
+  during job performance                                                        
+. Where the work is located (outdoors: on a farm, a forest tract, on water,     
+  etc.; indoors: an office, a factory, school, etc.).                           
+                                                                                
+ Computerized Job Service matching can improve the efficiency of placement      
+activities in a system by allowing  interviewers to use the DOT to:             
+                                                                                
+a) verify the accuracy and completeness of applications and job orders and      
+   ensure appropriate classifications are assigned;                             
+                                                                                
+b) verify data on intake forms at the point of data entry and monitor the       
+   output of program or labor market information; and                           
+                                                                                
+c) provide alternate search strategies using the DOT classification system      
+   within the capabilities of the computerized system.                          
+                                                                                
+                                                                                
+4) Assisting Special Applicant Groups                                           
+                                                                                
+Entry Level Workers                                                             
+                                                                                
+ Entry workers often have little or no training, education or job experience    
+geared to specific occupational requirements.  They may also lack the necessary 
+licenses or certification for certain jobs in which they express interest.  In  
+one way or another, they may not be fully competitive with more experienced     
+jobseekers.                                                                     
+                                                                                
+ An effective method of classifying such workers is to review the individual's  
+educational background, interests, hobbies, casual or leisure time work         
+experience, worker traits, and other indicators of potential occupational       
+abilities and skills.  For example, if the applicant had an interest in science 
+activities in school, they might be considered for a laboratory job if such     
+openings are available in the area.  The final code assigned should allow the   
+individual the greatest possible exposure to work or training opportunities in  
+relation to interests, skills and abilities.                                    
+                                                                                
+ In a manual matching system, it is not usually possible to assign a 9-digit    
+code to an entry worker, but every effort should be made to assign an           
+appropriate 6-digit code and generalized title.  One method of indicating that  
+the individual is an entry worker is to replace the period after the third      
+digit in the occupational code with an (x). For example, if an entry worker is  
+assigned the job title LABORATORY TESTER (any industry), the 6-digit code       
+assigned would be 029x261.  In a computerized matching system, there is no      
+standard method of recording entry classifications, since the recording         
+procedures can vary from state to state.                                        
+                                                                                
+Veterans                                                                        
+                                                                                
+ U.S. veterans seeking civilian jobs are usually given preference in file       
+search and referral activities by public employment service offices.  To give   
+veterans the maximum opportunity to qualify for openings, both their civilian   
+experience and the occupational training they received during their military    
+careers must be fully reflected in their occupational classification and code.  
+The inclusion of significant military occupations in the DOT assists in         
+providing correct input and increases the chances of finding a job match.       
+                                                                                
+ The Department of Defense Military Career Guide 1988-1989, prepared in         
+cooperation with the Department of Labor and published in 1987, is an important 
+reference document in this area.  It consolidates occupational information from 
+all branches of the Armed Services and related military-to-DOT occupations.     
+                                                                                
+Disabled Workers                                                                
+                                                                                
+ The procedure for coding entry workers may also be applied to disabled or      
+differently-abled workers and applicants with limited or nonrelevant work       
+experience registering under various assistance or human resource development   
+programs. The interviewer must not assume that a disability automatically       
+precludes a worker from performing a particular job. Companies will often make  
+special accommodations to employ disabled persons (in fact, some accommodations 
+are legally required).                                                          
+                                                                                
+ If a person has strong or special physical capabilities which would allow them 
+to accommodate to certain tasks, these also should be taken into account. The   
+interviewer may refer to the Handbook for Analyzing Jobs or his or her regional 
+Occupational Analysis Field Center if he or she has any questions regarding the 
+physical demands listed for a specific occupation in the DOT. Remember that     
+additional information from testing and reinterviewing applicants may be used   
+to review and/or revise an individual's assigned occupational classification.   
+                                                                                
+Other Special Applicants                                                        
+                                                                                
+ Persons in certain life situations may, based on the stressful nature of these 
+situations, be considered in the category of special applicant. In addition to  
+the applicant groups cited above, interviewers may be called upon to assist     
+applicants who are difficult to place such as low-skilled youth, older workers, 
+ex-offenders, drug abusers, seasonal or displaced reentrants to the labor       
+market and others who need to work but challenge a counselor's placement        
+skills. To most effectively place clients in available local jobs, interviewers 
+must sometimes evaluate the broader needs and values of applicants including    
+their work attitudes, personality and need for transitional support such as     
+remedial education, medical or mental health care, transportation and day care. 
+                                                                                
+ The employment interviewer, to respond to this challenge, must try to          
+determine the applicant's work resources including  abilities, interests,       
+physical capabilities, work history and experience, education and leisure       
+activities. Use of support material such as the Guide for Occupational          
+Exploration and the Occupational Outlook Handbook (available at most libraries) 
+is usually advisable. These easy-to-read books, published by the Department of  
+Labor, provide information on several job factors including specific work       
+duties, training and education, earnings, working conditions and future         
+opportunities.                                                                  
+                                                                                
+ The important thing is not the job title, but the skills and abilities         
+required by the job. An applicant whose experience and aptitudes are matched to 
+an occupation never considered before is a real success story. The interviewer, 
+with effective use of the DOT, can play a pivotal role in that process.         

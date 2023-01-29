@@ -1,0 +1,273 @@
+File Manifest for ICPSR 6100
+
+United States Department of Labor, United States Employment Service, and
+the North Carolina Occupational Analysis Field Center. DICTIONARY OF
+OCCUPATIONAL TITLES (DOT): REVISED FOURTH EDITION, 1991. Washington, DC:
+United States Department of Labor, United States Employment Service, and
+Raleigh, NC: North Carolina Occupational Analysis Field Center [producer],
+1991. Ann Arbor, MI: Inter-university Consortium for Political and Social
+Research [distributor], 1994. http://doi.org/10.3886/ICPSR06100.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-descriptioncitation.pdf       -       -         -       2014-07-03  -
+
+    06100-related_literature.txt        -       -         -       daily       -
+
+    06100-manifest.txt                  -       -         -       daily       -
+
+    06100-Codebook.pdf                  -       -         -       1999-05-28  c4774eaeb4a6edfeeab4bf9613e2f84d
+
+
+DS0001 Acknowledgments
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0001-Data.txt                 80      31        inap.   1995-08-09  0f55edad8f6d93edfcb3ddd47b2b2f2c
+
+
+DS0002 Alternate Titles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0002-Data.txt                 197     4,867     unknown 1995-08-09  46c179f0b53fc2dbcc6a1f9c3a9b814e
+
+
+DS0003 Appendix A: Revisions From the Fourth Edition Dictionary of
+Occupational Titles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0003-Codebook_appendix.txt    -       -         -       1997-06-04  c0ae3fbd99156092c5f105607e721934
+
+
+DS0004 Appendix B: Explanation of Data, People, and Things
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0004-Codebook_appendix.txt    -       -         -       1997-06-04  65cd0b1094dd23128572da68c15464cd
+
+
+DS0005 Appendix C: Components of the Definition Trailer
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0005-Codebook_appendix.txt    -       -         -       1997-06-04  2f88df30400afaf75693687bac2ce31a
+
+
+DS0006 Appendix D: How to Use the Dictionary of Occupational Titles for Job
+Placement
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0006-Codebook_appendix.txt    -       -         -       1997-06-04  078ec26d60407a1fde3a097993504e9c
+
+
+DS0007 Appendix E: Occupational Code Requests
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0007-Codebook_appendix.txt    -       -         -       1997-06-04  cdaedeaaac796b695a021134e9e43e4a
+
+
+DS0008 Occupational Categories, Divisions, and Groups
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0008-Data.txt                 80      726       inap.   1995-08-09  2228f52a162c724378ae205765ad282e
+
+
+DS0009 Occupational Definitions
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0009-Data.txt                 1681    9         6       1995-08-09  281bb5d313d207242bc73fa9850c5659
+
+
+DS0010 Contents
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0010-Data.txt                 80      47        inap.   1995-08-09  a5431e857d250341b15b14a12072c17a
+
+
+DS0011 Miscellaneous Definitions 1
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0011-Data.txt                 1949    360       unknown 1995-08-09  ee38c4c65935ece75a03fb04c9ab4b21
+
+
+DS0012 Miscellaneous Definitions 2
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0012-Data.txt                 2009    2         unknown 1995-08-09  dc3bbba4e4e16046a03bbe8a12546296
+
+
+DS0013 Definition Document
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0013-Data.txt                 1844    12,741    71      1995-08-09  4a17e8aa986a9f7986037d9290206564
+
+
+DS0014 Occupational Divisions
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0014-Data.txt                 1743    83        6       1995-08-09  e55c1188a1f9d42d0e06ea152f99e124
+
+
+DS0015 Dictionary of Occupational Titles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0015-Data.txt                 1648    141       unknown 1995-08-09  ffbc4df77de1fab9f51ca9854907462a
+
+
+DS0016 Forward
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0016-Data.txt                 80      28        inap.   1995-08-09  dfdf53250f757bdfe5b8ec9016959ea3
+
+
+DS0017 Glossary
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0017-Data.txt                 1653    336       unknown 1995-08-09  dab60a33f53a7c4b9526a4f6feba805d
+
+
+DS0018 Occupational Groups
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0018-Data.txt                 1774    564       6       1995-08-09  01663f02c2e6dd19e9702616f7591788
+
+
+DS0019 How to Find an Occupational Title and Code
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0019-Data.txt                 80      185       inap.   1995-08-09  1eee4d1f59e2f6d76477df4c3cf3005a
+
+
+DS0020 Industry Index
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0020-Data.txt                 80      293       inap.   1995-08-09  034151ddca9dee0a15885e0530751416
+
+
+DS0021 Introduction
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0021-Data.txt                 80      79        inap.   1995-08-09  c6dc418d67a31dd4a9de6937e7df4dd2
+
+
+DS0022 Definitions of Masters
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0022-Data.txt                 1701    16        8       1995-08-09  10ecd3154eb9bbd1789ed8e81ee184df
+
+
+DS0023 Message From the Secretary
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0023-Data.txt                 80      20        inap.   1995-08-09  96166971f623e3dfcf5cfe5c9ddb14d7
+
+
+DS0024 Parts of the Occupational Definition
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0024-Data.txt                 80      416       inap.   1995-08-09  89a3bbc10a3765467b751f4961f9efd8
+
+
+DS0025 Prefatory Note
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0025-Data.txt                 80      25        inap.   1995-08-09  86fd78cae3c621f6948f05888d62d984
+
+
+DS0026 Readme File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0026-Data.txt                 80      1,320     inap.   1995-08-09  952b41b1a7cd4899abfd070e8172f0ef
+
+
+DS0027 Special Notice
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0027-Data.txt                 80      34        inap.   1995-08-09  1c85b937d6a897021bf8516bbe8cde71
+
+
+DS0028 Term Definitions
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0028-Data.txt                 1708    189       unknown 1995-08-09  b78431b36a67611bc6992768e794466d
+
+
+DS0029 Title Page
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0029-Data.txt                 80      15        inap.   1995-08-09  7aae41905d0fafddee645f4079ead112
+
+
+DS0030 Titles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06100-0030-Data.txt                 240     29,393    8       1995-08-09  e291d7292a50febdeb66abd9d6f78ce4
+
+
+Version History
+
+2006-01-12 All files were removed from dataset 31 and flagged as study-
+level files, so that they will accompany all downloads.

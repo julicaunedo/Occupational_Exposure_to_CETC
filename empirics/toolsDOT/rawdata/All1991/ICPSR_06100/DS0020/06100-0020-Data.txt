@@ -1,0 +1,293 @@
+INDUSTRY INDEX                                                                  
+                                                                                
+ This index lists industries included in the section entitled ``Occupational    
+Titles Arranged by Industry Designation''. The industry designations            
+(abbreviations) and full industry titles are both listed. Entries in capital    
+letters refer to the full industry titles and those in lower case to the        
+industry designations.  The numbers following each listing refer to pages in    
+the printed version of the DOT on which the industry definition may be found.   
+                                                                                
+                                                                                
+ABRASIVE, ASBESTOS, AND MISCELLANEOUS NONMETALLIC MINERAL PRODUCTS              
+ INDUSTRY 1143                                                                  
+agric. equip. 1027                                                              
+AGRICULTURAL EQUIPMENT INDUSTRY 1027                                            
+agriculture 1027                                                                
+AGRICULTURE AND AGRICULTURAL SERVICE 1027                                       
+air trans. 1032                                                                 
+AIR TRANSPORTATION INDUSTRY 1032                                                
+AIRCRAFT-AEROSPACE MANUFACTURING INDUSTRY 1030                                  
+aircraft mfg. 1030                                                              
+amuse. & rec. 1033                                                              
+AMUSEMENT AND RECREATION 1033                                                   
+ANIMAL AND VEGETABLE OILS, FATS, AND GREASE INDUSTRY 1145                       
+any industry 1036                                                               
+ANY INDUSTRY 1036                                                               
+auto. mfg. 1049                                                                 
+AUTOMOBILE MANUFACTURING INDUSTRY 1049                                          
+AUTOMOTIVE SERVICES 1050                                                        
+automotive ser. 1050                                                            
+bakery products 1051                                                            
+BAKERY PRODUCTS INDUSTRY 1051                                                   
+beverage 1052                                                                   
+BEVERAGE INDUSTRY 1052                                                          
+BLAST FURNACE, STEEL WORK, AND ROLLING AND FINISHING MILL INDUSTRY 1189         
+boot & shoe 1054                                                                
+BOOT AND SHOE INDUSTRY 1054                                                     
+brick & tile 1058                                                               
+BRICK, TILE, AND NONCLAY REFRACTORIES INDUSTRY 1058                             
+BUILDING MATERIALS INDUSTRY, NOT ELSEWHERE CLASSIFIED 1059                      
+build. mat., nec 1059                                                           
+business ser. 1060                                                              
+BUSINESS SERVICES 1060                                                          
+button & notion 1061                                                            
+BUTTON AND MISCELLANEOUS NOTIONS INDUSTRY  1061                                 
+can. & preserv. 1062                                                            
+CANNING AND PRESERVING INDUSTRY 1062                                            
+carpet & rug 1063                                                               
+CARPET AND RUG INDUSTRY 1063                                                    
+cement 1064                                                                     
+CEMENT INDUSTRY 1064                                                            
+chemical 1064                                                                   
+CHEMICAL INDUSTRY 1064                                                          
+clerical 1069                                                                   
+CLERICAL AND KINDRED OCCUPATIONS 1069                                           
+clock & watch 1072                                                              
+CLOCKS, WATCHES, AND ALLIED PRODUCTS INDUSTRY 1072                              
+COAL, METAL, AND NONMETAL MINING AND QUARRYING INDUSTRY 1136                    
+comm. equip. 1074                                                               
+concrete prod. 1074                                                             
+CONCRETE PRODUCTS INDUSTRY 1074                                                 
+construction 1075                                                               
+CONSTRUCTION INDUSTRY 1075                                                      
+CUTLERY, HANDTOOLS, AND HARDWARE INDUSTRY 1081                                  
+cutlery-hrdwr. 1081                                                             
+dairy products 1081                                                             
+DAIRY PRODUCTS INDUSTRY 1081                                                    
+domestic ser. 1082                                                              
+DOMESTIC SERVICE 1082                                                           
+education 1082                                                                  
+EDUCATION AND INSTRUCTION 1082                                                  
+elec. equip. 1084                                                               
+ELECTRICAL EQUIPMENT INDUSTRY 1084                                              
+electron. comp. 1086                                                            
+ELECTRONIC COMPONENTS AND ACCESSORIES INDUSTRY 1086                             
+electroplating 1089                                                             
+ELECTROPLATING INDUSTRY 1089                                                    
+engine-turbine 1089                                                             
+ENGINE AND TURBINE INDUSTRY 1089                                                
+engraving 1089                                                                  
+ENGRAVING, CHASING, AND ETCHING INDUSTRY 1089                                   
+FABRICATED PLASTIC PRODUCTS INDUSTRY 1160                                       
+FABRICATED METAL PRODUCTS, NOT ELSEWHERE CLASSIFIED 1133                        
+fabrication, nec 1090                                                           
+financial 1092                                                                  
+FINANCIAL INSTITUTIONS 1092                                                     
+fishing & hunt. 1093                                                            
+FISHING, HUNTING, AND TRAPPING 1093                                             
+FOOD PREPARATIONS AND FOOD SPECIALTIES INDUSTRY, NOT ELSEWHERE CLASSIFIED 1094  
+food prep., nec 1094                                                            
+forestry 1095                                                                   
+FORESTRY INDUSTRY 1095                                                          
+forging 1095                                                                    
+FORGING 1095                                                                    
+foundry 1096                                                                    
+FOUNDRY 1096                                                                    
+fur goods 1097                                                                  
+FUR GOODS INDUSTRY 1097                                                         
+furniture 1097                                                                  
+FURNITURE AND FIXTURES INDUSTRY 1097                                            
+galvanizing 1100                                                                
+GALVANIZING AND OTHER COATING INDUSTRY 1100                                     
+garment 1100                                                                    
+GARMENT INDUSTRY 1100                                                           
+GLASS MANUFACTURING INDUSTRY 1102                                               
+glass mfg. 1102                                                                 
+glass products 1104                                                             
+GLASS PRODUCTS INDUSTRY 1104                                                    
+glove & mit. 1104                                                               
+GLOVE AND MITTEN INDUSTRY 1104                                                  
+government ser. 1105                                                            
+GOVERNMENT SERVICES 1105                                                        
+grain-feed mills 1109                                                           
+GRAIN AND FEED MILLING INDUSTRY 1109                                            
+hat & cap 1111                                                                  
+HAT AND CAP INDUSTRY 1111                                                       
+heat treating 1113                                                              
+HEAT TREATING 1113                                                              
+hotel & rest. 1113                                                              
+HOTEL AND RESTAURANT INDUSTRY 1113                                              
+house. appl. 1116                                                               
+HOUSEHOLD APPLIANCES INDUSTRY 1116                                              
+inst. & app. 1116                                                               
+INSTRUMENTS AND APPARATUS INDUSTRY 1116                                         
+insurance 1116                                                                  
+INSURANCE INDUSTRY 1116                                                         
+jewelry-silver. 1117                                                            
+JEWELRY, SILVERWARE, AND PLATED WARE INDUSTRY 1117                              
+knitting 1119                                                                   
+KNITTING INDUSTRY 1119                                                          
+laundry & rel. 1120                                                             
+LAUNDRY, CLEANING, DYEING, AND PRESSING INDUSTRY 1120                           
+LEATHER MANUFACTURING INDUSTRY 1122                                             
+leather mfg. 1122                                                               
+leather prod. 1123                                                              
+LEATHER PRODUCTS INDUSTRY 1123                                                  
+library 1124                                                                    
+LIBRARY 1124                                                                    
+light. fix. 1125                                                                
+LIGHTING FIXTURES INDUSTRY 1125                                                 
+logging 1125                                                                    
+LOGGING INDUSTRY 1125                                                           
+MACHINERY MANUFACTURING INDUSTRY 1126                                           
+machinery mfg. 1126                                                             
+machine shop 1126                                                               
+MACHINE SHOP 1126                                                               
+machine tools 1129                                                              
+MACHINE TOOLS AND ACCESSORIES INDUSTRY 1129                                     
+MANUFACTURED BUILDINGS INDUSTRY 1134                                            
+meat products 1129                                                              
+MEAT PRODUCTS INDUSTRY 1129                                                     
+medical ser. 1131                                                               
+MEDICAL SERVICES 1131                                                           
+metal prod., nec 1133                                                           
+mfd. bldgs. 1134                                                                
+military ser. 1135                                                              
+MILITARY SERVICES 1135                                                          
+millwork-plywood 1135                                                           
+MILLWORK, VENEER, PLYWOOD, AND STRUCTURAL WOOD MEMBERS INDUSTRY 1135            
+mine & quarry 1136                                                              
+MISCELLANEOUS FABRICATED PRODUCTS, NOT ELSEWHERE CLASSIFIED 1090                
+MISCELLANEOUS VEHICLES AND TRANSPORTATION EQUIPMENT INDUSTRY, NOT ELSEWHERE     
+ CLASSIFIED 1213                                                                
+motion picture 1138                                                             
+MOTION PICTURE INDUSTRY 1138                                                    
+motor-bicycles 1139                                                             
+MOTORCYCLES, BICYCLES, AND PARTS INDUSTRY 1139                                  
+motor trans. 1139                                                               
+MOTOR VEHICLE TRANSPORTATION INDUSTRY 1139                                      
+museums 1140                                                                    
+MUSEUMS, ART GALLERIES, AND BOTANICAL AND ZOOLOGICAL GARDENS 1140               
+musical inst. 1140                                                              
+MUSICAL INSTRUMENTS AND PARTS INDUSTRY 1140                                     
+narrow fabrics 1141                                                             
+NARROW FABRICS INDUSTRY 1141                                                    
+nonfer. metal 1141                                                              
+NONFERROUS METAL ALLOYS AND PRIMARY PRODUCTS INDUSTRY 1141                      
+nonmet. min. 1143                                                               
+NONPROFIT MEMBERSHIP, CHARITABLE, AND RELIGIOUS ORGANIZATIONS 1144              
+nonprofit org. 1144                                                             
+nut & bolt 1144                                                                 
+OFFICE, COMPUTING, AND ACCOUNTING MACHINES INDUSTRY 1144                        
+office machines 1144                                                            
+oils & grease 1145                                                              
+optical goods 1146                                                              
+OPTICAL GOODS INDUSTRY 1146                                                     
+ordnance 1147                                                                   
+ORDNANCE AND ACCESSORIES (EXCEPT VEHICLES AND GUIDED MISSILES) INDUSTRY 1147    
+paint & varnish 1149                                                            
+PAINT AND VARNISH INDUSTRY 1149                                                 
+paper & pulp 1150                                                               
+PAPER AND PULP INDUSTRY 1150                                                    
+paper goods 1151                                                                
+PAPER GOODS INDUSTRY 1151                                                       
+pen & pencil 1153                                                               
+PEN, PENCIL, MARKING DEVICE, AND ARTISTS' MATERIALS MANUFACTURING INDUSTRY 1153 
+PERSONAL PROTECTIVE AND MEDICAL DEVICES AND SUPPLIES INDUSTRY 1173              
+personal ser. 1154                                                              
+PERSONAL SERVICE 1154                                                           
+petrol. & gas 1155                                                              
+PETROLEUM AND NATURAL GAS PRODUCTION INDUSTRY 1155                              
+petrol. refin. 1157                                                             
+PETROLEUM REFINING INDUSTRY 1157                                                
+pharmaceut. 1158                                                                
+PHARMACEUTICALS AND RELATED PRODUCTS INDUSTRY 1158                              
+photo. appar. 1159                                                              
+photofinishing 1159                                                             
+PHOTOFINISHING INDUSTRY 1159                                                    
+PHOTOGRAPHIC APPARATUS AND MATERIALS INDUSTRY 1159                              
+pipe lines 1159                                                                 
+PIPE LINES INDUSTRY 1159                                                        
+PLASTIC AND SYNTHETIC MATERIALS INDUSTRY 1161                                   
+plastic prod. 1160                                                              
+plastic-synth. 1161                                                             
+PLUMBING AND HEATING SUPPLIES INDUSTRY 1163                                     
+plumbing-heat. 1163                                                             
+pottery & porc. 1163                                                            
+POTTERY AND PORCELAIN WARE INDUSTRY 1163                                        
+print. & pub. 1163                                                              
+PRINTING AND PUBLISHING INDUSTRY 1163                                           
+profess. & kin. 1167                                                            
+PROFESSIONAL AND KINDRED OCCUPATIONS 1167                                       
+protective dev. 1173                                                            
+RADIO AND TELEVISION BROADCASTING INDUSTRY 1174                                 
+RADIO, TELEVISION, AND COMMUNICATION EQUIPMENT INDUSTRY 1074                    
+radio-tv broad. 1174                                                            
+railroad equip. 1176                                                            
+RAILROAD EQUIPMENT BUILDING AND REPAIRING INDUSTRY 1176                         
+RAILROAD TRANSPORTATION INDUSTRY 1180                                           
+real estate 1176                                                                
+REAL ESTATE INDUSTRY 1176                                                       
+recording 1177                                                                  
+RECORDING INDUSTRY 1177                                                         
+REFRIGERATION AND SERVICE INDUSTRY MACHINERY INDUSTRY 1195                      
+retail trade 1177                                                               
+RETAIL TRADE INDUSTRY 1177                                                      
+r.r. trans. 1180                                                                
+rubber goods 1181                                                               
+RUBBER GOODS INDUSTRY 1181                                                      
+rubber reclaim. 1183                                                            
+RUBBER RECLAIMING INDUSTRY 1183                                                 
+rubber tire 1184                                                                
+RUBBER TIRE AND TUBE INDUSTRY 1184                                              
+sanitary ser. 1185                                                              
+SANITARY SERVICES 1185                                                          
+saw. & plan. 1185                                                               
+SAWMILL AND PLANING MILL INDUSTRY 1185                                          
+SCREW MACHINE PRODUCTS AND BOLTS, NUTS, SCREWS, RIVETS, AND WASHERS INDUSTRY    
+ 1144                                                                           
+SHIP AND BOAT MANUFACTURING AND REPAIRING INDUSTRY 1186                         
+ship-boat mfg. 1186                                                             
+smelt. & refin. 1187                                                            
+SMELTING AND REFINING INDUSTRY 1187                                             
+soap & rel. 1189                                                                
+SOAP, CLEANING, AND TOILET PREPARATION INDUSTRY 1189                            
+social ser. 1189                                                                
+SOCIAL SERVICES 1189                                                            
+steel & rel. 1189                                                               
+stonework 1191                                                                  
+STONEWORK INDUSTRY 1191                                                         
+struct. metal 1192                                                              
+STRUCTURAL AND ORNAMENTAL METAL PRODUCTS INDUSTRY 1192                          
+sugar & conf. 1193                                                              
+SUGAR AND CONFECTIONERY PRODUCTS INDUSTRY 1193                                  
+svc. ind. mach. 1195                                                            
+tel. & tel. 1195                                                                
+TELEPHONE AND TELEGRAPH INDUSTRY 1195                                           
+tex. prod., nec 1196                                                            
+textile 1200                                                                    
+TEXTILE INDUSTRY 1200                                                           
+TEXTILE PRODUCTS INDUSTRY, NOT ELSEWHERE CLASSIFIED 1196                        
+tinware 1206                                                                    
+TINWARE AND OTHER METAL CANS AND CONTAINERS INDUSTRY 1206                       
+tobacco 1207                                                                    
+TOBACCO INDUSTRY 1207                                                           
+TOYS, GAMES, AND SPORTS EQUIPMENT INDUSTRY 1209                                 
+toy-sport equip. 1209                                                           
+utilities 1211                                                                  
+UTILITIES (LIGHT, HEAT, AND POWER) INDUSTRY 1211                                
+vehicles, nec 1213                                                              
+water trans. 1214                                                               
+WATER TRANSPORTATION INDUSTRY 1214                                              
+waterworks 1216                                                                 
+WATERWORKS INDUSTRY 1216                                                        
+welding 1216                                                                    
+WELDING AND RELATED PROCESSES 1216                                              
+wholesale tr. 1217                                                              
+WHOLESALE TRADE INDUSTRY 1217                                                   
+wood. container 1219                                                            
+WOODEN CONTAINER INDUSTRY 1219                                                  
+wood prod., nec 1221                                                            
+WOOD PRODUCTS INDUSTRY, NOT ELSEWHERE CLASSIFIED 1221                           
+woodworking 1222                                                                
+WOODWORKING 1222                                                                

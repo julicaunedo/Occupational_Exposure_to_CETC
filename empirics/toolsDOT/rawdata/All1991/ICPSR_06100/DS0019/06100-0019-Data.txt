@@ -1,0 +1,185 @@
+HOW TO FIND AN OCCUPATIONAL TITLE AND CODE                                      
+                                                                                
+ Occupational titles and codes in the Dictionary of Occupational Titles (DOT)   
+are based on the type of information presented in the lead statement and task   
+element statements described in the previous section:  worker actions; the      
+purpose or objective of these actions; machines, tools, equipment, or work aids 
+used; materials processed, products made, subject matter dealt with, or service 
+rendered; the nature and complexity of instructions followed; and the job tasks 
+actually performed by the worker.  The more complete and comprehensive the      
+information you are able to assemble about the tasks performed by a worker or   
+required by an employer on a particular job, the easier it will be to determine 
+the appropriate classification.                                                 
+                                                                                
+The Three Occupational Arrangements                                             
+                                                                                
+ There are three different arrangements of occupational titles in the DOT:  the 
+Occupational Group Arrangement, the Alphabetical Index, and the Industry        
+Arrangement.  All of these can assist you in identifying and classifying jobs.  
+                                                                                
+ 1) The Occupational Group Arrangement                                          
+                                                                                
+ In this revised edition, as in the fourth edition, the primary method of       
+identifying or classifying jobs is by use of the Occupational Group Arrangement 
+(see Occupational Categories, Divisions, and Groups).  For job placement and    
+referral purposes, if you have obtained sufficient information from the worker  
+seeking a job, or the employer placing an order, this is the preferred method to
+use.  The other two arrangements of titles are supplementary and should be used 
+in conjunction with the Occupational Group Arrangement.  Using the Occupational 
+Group Arrangement saves time by eliminating the extra step of referring to other
+sections of the DOT.                                                            
+                                                                                
+ To use the Occupational Group Arrangement:                                     
+                                                                                
+ a) Obtain all the relevant facts about the job.                                
+                                                                                
+ b) Find the 1-digit occupational category which seems most likely to contain   
+    the job.                                                                    
+                                                                                
+ c) Find the most appropriate 2-digit occupational division of the category.    
+                                                                                
+ d) Find the best 3-digit group within the division.                            
+                                                                                
+ e) Examine the occupational definition under the group you have selected and   
+    choose the most appropriate title.  Read the definition for the title       
+    selected carefully before deciding if this is the best possible             
+    classification.  If it does not correspond closely with the information     
+    you have collected, repeat steps (b) to (d) to find the most appropriate    
+    classification.                                                             
+                                                                                
+ In the process of choosing the appropriate occupational category, division, and
+group (steps b - d) you will develop information about the job which will be    
+helpful in classifying it.  When you are trying to find the most appropriate    
+definition in the occupational group selected (step e), remember that jobs      
+requiring more responsibility and independent judgment have lower worker        
+functions numerals and will be found near the beginning of the occupational     
+group, while those requiring less responsibility and independent judgment have  
+higher numbers and will be found nearer the end.                                
+                                                                                
+ 2)  The Alphabetical Index of Occupational Titles                              
+                                                                                
+ The Alphabetical Index is the second basic arrangement of codes and titles in  
+the DOT.  In this section, titles are shown first, including their industry     
+designation.  Titles with two or more words, such as ACCOUNT-CLASSIFICATION     
+CLERK (clerical), are treated as one word for purposes of alphabetizing.        
+Following the industry designation, you will find the 9-digit code for the      
+occupation.  This will help to find quickly the title and its definition in the 
+Occupational Group Arrangement (OGA).  The Alphabetical Index is useful if you  
+are sure of an occupational title, including its industry designation, and just 
+need the 9-digit code, or if you are reasonably sure of a title and its industry
+designation, but there is more than one such title in the same industry         
+(indicated by a Roman numeral), you could use this index to get the 9-digit     
+codes of the various titles in order to locate and check out their definitions  
+in the OGA.  Although it is unwise to classify a job or application based on its
+title alone, the Alphabetical Index is useful in some situations to identify    
+definitions that are possibly relevant.                                         
+                                                                                
+ To use the Alphabetical Index:                                                 
+                                                                                
+ a) Look through the index for the title of the job as you know it.  If you     
+    find it, write down the 9-digit code printed to the right of the title.     
+    Using this code as a guide, find the definition for the title in the        
+    Occupational Group Arrangement.  Read the entire definition before          
+    deciding whether it is the most appropriate classification.                 
+                                                                                
+ b) If you cannot find the job title, or if the definition appears              
+    inappropriate, look for another title.  Some clues are:                     
+                                                                                
+   Invert the title: maintenance carpenter                                      
+    CARPENTER, MAINTENANCE                                                      
+                                                                                
+   Contract the title: rubber-belt repairer                                     
+    BELT REPAIRER                                                               
+                                                                                
+   Find a synonym: car mechanic                                                 
+    AUTOMOBILE MECHANIC                                                         
+                                                                                
+  Consider such factors as:                                                     
+                                                                                
+   Job location                                                                 
+    PARKING LOT ATTENDANT; STOREROOM CLERK                                      
+                                                                                
+  Machines used                                                                 
+    PUNCH-PRESS OPERATOR; MACHINE FEEDER                                        
+                                                                                
+   Materials used                                                               
+   LOG LOADER; PLASTIC-TILE LAYER                                               
+                                                                                
+   Subject matter                                                               
+    ACCOUNTING CLERK; CREDIT ANALYST                                            
+                                                                                
+   Services involved                                                            
+    CLEANER AND PRESSER; BROKER                                                 
+                                                                                
+   Activity performed                                                           
+    TEACHER; INSPECTOR                                                          
+                                                                                
+   Job complexity                                                               
+    MACHINE SETTER; WELDING-MACHINE TENDER                                      
+                                                                                
+ If you have information on several of these factors, however, it may be more   
+appropriate to use the Occupational Group Arrangement.                          
+                                                                                
+ Some titles listed in the Alphabetical Index are not used in public employment 
+service operations.  ``Master'' and ``Term'' titles do not have occupational    
+codes and consequently cannot be used.  They are easily recognized since the    
+words ``Master Title'' or ``Term Title'' appear in place of the code to the     
+right of the title.  Alternate titles, which are synonyms for, but less commonly
+used than base titles, are not standard titles for classification purposes in   
+Job Service operations.  They are also easily recognizable since they are in    
+lower-case letters.                                                             
+                                                                                
+3) Occupational Titles Arranged by Industry Designation                         
+                                                                                
+ The Industry Arrangement of titles may be useful if you have limited           
+information about a job.  You may know the industry in which the job is located,
+but have little or no information about such things as products made, materials 
+used, services rendered, and other essential data.  The Industry Arrangement can
+also be of assistance if a person wants to work in a particular industry, or if 
+you need to learn more about related jobs in the industry.                      
+                                                                                
+ To use the Industry Arrangement:                                               
+                                                                                
+ a) Look through the industry titles and read their definitions.  Select the    
+    one most likely to contain the particular job.                              
+                                                                                
+ b) Survey the occupational titles listed under the selected industry.  Choose  
+    the title which seems appropriate to the job, and write down the            
+    nine-digit code to the right of the title.  Using this code as a guide,     
+    find the definition in the Occupational Group Arrangement.  Read the        
+    entire occupational definition before deciding if it is the most            
+    appropriate classification.                                                 
+                                                                                
+Summary                                                                         
+                                                                                
+ The basic purpose and use of each of the three arrangements of occupational    
+titles is shown below:                                                          
+                                                                                
+                                                                                
+Use . . .     If you . . .                                                      
+                                                                                
+                                                                                
+                                                                                
+THE                     have sufficient information about the job tasks         
+                                                                                
+OCCUPATIONAL            want to know about other closely related occupations    
+                                                                                
+GROUP                   want to be sure you have chosen the most appropriate    
+                                                                                
+ARRANGEMENT             classification using the other arrangements             
+                                                                                
+------------------------------------------------------------------------------  
+OCCUPATIONAL TITLES     know only the industry in which the job is located      
+                                                                                
+ARRANGED BY             want to know about other jobs in an industry            
+                                                                                
+INDUSTRY DESIGNATION    your client wants to work in a specific industry        
+                                                                                
+------------------------------------------------------------------------------  
+THE ALPHABETICAL        know only the job title                                 
+                                                                                
+INDEX OF                and cannot obtain better                                
+                                                                                
+OCCUPATIONAL TITLES     information                                             
+                                                                                
+------------------------------------------------------------------------------  

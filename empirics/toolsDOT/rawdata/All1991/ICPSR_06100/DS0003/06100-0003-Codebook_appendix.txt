@@ -1,0 +1,52 @@
+APPENDIX A                                                                      
+                                                                                
+REVISIONS FROM THE 4TH EDITION DOT                                              
+                                                                                
+                                                                                
+ In this revised edition of the Dictionary of Occupational Titles (DOT), several
+format and content changes were made in an effort to make this DOT easier to    
+use.                                                                            
+                                                                                
+The most noticeable change in this revised DOT is that a profile has been       
+appended to each definition. This profile contains the following selected       
+occupational analysis characteristics:  GOE Code; Strength rating; R, M, and L  
+of GED; and SVP.  (A detailed explanation of these characteristics can be found 
+in Appendix C.)  The last item in the trailer, the Date of Last Update (DLU),   
+is the date of the most recent material gathered in support of that occupation. 
+The date ``1977'' indicates that the occupation has not been studied since the  
+publication of the fourth edition DOT in 1977.  This entry allows the reader to 
+identify the currency of each definition.  It also identifies ``new''           
+definitions in the DOT or alerts the reader to previously published and recently
+updated definitions.                                                            
+                                                                                
+ A new division has been added to the DOT classification structure, Division 03 
+COMPUTER-RELATED OCCUPATIONS, and under it there have been added five new       
+Occupational Groups to reflect a reorganization of the DOT taxonomy to bring all
+of the computer-related occupations together.  The five Occupational Groups are 
+as follows:                                                                     
+                                                                                
+030 OCCUPATIONS IN SYSTEMS ANALYSIS AND PROGRAMMING                             
+031 OCCUPATIONS IN DATA COMMUNICATIONS AND NETWORKS                             
+032 OCCUPATIONS IN COMPUTER SYSTEMS USER SUPPORT                                
+033 OCCUPATIONS IN COMPUTER SYSTEMS TECHNICAL SUPPORT                           
+039 COMPUTER-RELATED OCCUPATIONS, N.E.C.                                        
+                                                                                
+ Additionally, when an updated occupational definition in this DOT contains a   
+reference to the title of another occupation, the DOT code of the referenced    
+occupation is listed, following the referenced DOT title. Within the definitions
+and the indexes, Undefined Related (UR) titles will now be shown in initial     
+capital letters instead of all captial letters to avoid confusion between Base  
+and UR Titles.                                                                  
+                                                                                
+ Also, additional appendices have been added to the revised DOT. In this revised
+DOT, Appendix A is new. Appendix B was the Appendix in the 1977 DOT. Appendix C,
+mentioned above, explains the components of the definition trailer, Appendix D  
+explains how to use the DOT for job placement, and Appendix E explains how to   
+submit information concerning occupations not found in the DOT. (Appendix D and 
+Appendix E were sections in the front of the 1977 DOT).                         
+                                                                                
+ The fourth edition DOT Industry Designations have been revised and reduced from
+220 to 140 Industry Designations to more closely reflect the Standard Industrial
+Classification system. And finally, to facilitate its use, the Alphabetical     
+Index of Occupational Titles appears as the last section in the DOT.            
+                                                                                
