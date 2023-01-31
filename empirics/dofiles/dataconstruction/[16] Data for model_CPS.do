@@ -259,11 +259,11 @@ clear
 use "$intermediate_data/[9]usercost_equipment_CPS_DOTONET_base85.dta"
 
 keep nipa_code year usercost
-export excel using "$model_data/CETC_bycapitaltypes.xlsx", sheet("usercost") sheetreplace firstrow(variables)
+export excel using "$model_data/CETC_bycapitaltype.xlsx", sheet("usercost") sheetreplace firstrow(variables)
 clear
 
 use "$raw_data/FED_PCEPI/pcepi_052021_base85.dta"
-export excel using "$model_data/CETC_bycapitaltypes.xlsx", sheet("pc") sheetreplace firstrow(variables)
+export excel using "$model_data/CETC_bycapitaltype.xlsx", sheet("pc") sheetreplace firstrow(variables)
 clear
 
 

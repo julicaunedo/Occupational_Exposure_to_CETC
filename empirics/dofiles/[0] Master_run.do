@@ -134,7 +134,7 @@ do "$path_wrk/figures/ExtraFigure_Elasticity_2d.do"
 * 2) Online appendix
 *** Figures ***
 *Figures B.I and B.II are created in matlab using routine tool_shares.m
-do "$path_wrk/tables/Figure B.III.do"
+do "$path_wrk/figures/Figure B.III.do"
 
 *** Tables ***
 do "$path_wrk/tables/TableBI.do"

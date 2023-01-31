@@ -138,7 +138,7 @@ drop if year == 2001
 	gen computer_use = 1 if ciwrkcmp == 2
 	replace computer_use = 0 if ciwrkcmp == 1
 	
-	table year, c(mean computer_use)
+	*table year, c(mean computer_use)
  
  
  ** 4) collapse data
