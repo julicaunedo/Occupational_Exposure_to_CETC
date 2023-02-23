@@ -13,7 +13,7 @@ polfitd=2;
 load data_for_counter_figures.mat
 
 %% Hicks employment outcomes
-[CECT_data,trash] = xlsread('../../empirics/modeldata/CETC_data.xlsx','Sheet1','b2:b13'); 
+[temp] = readtable('../../empirics/modeldata/CETC_data.xlsx','Sheet','Sheet1');CECT_data=temp{:,:};CECT_data(:,1)=[];
 CECT_data([7,9],:)=[];
 %%capital share 
 alpha=0.24; 

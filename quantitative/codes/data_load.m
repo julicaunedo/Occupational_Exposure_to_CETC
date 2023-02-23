@@ -4,7 +4,7 @@ file_pkocc='../../empirics/modeldata/CETCstocks_byocc.xlsx';
 file_main='../../empirics/modeldata/empstocks_byocc.xlsx';
 %%employment and capital by occupation and type
 for j=1:size(c_years,2)
-    [out2] = xlsread(file_main,num2str(c_years(j)),'a2:cd121');     
+    [temp] = readtable(file_main,'Sheet',num2str(c_years(j)));out2=temp{:,:};
     %%redefine the order of info so that we have gender, education, age,
     %%occupation
     out2(:,[1,2,3,4])=out2(:,[2,3,4,1]);    
@@ -16,15 +16,16 @@ for j=1:size(c_years,2)
     temp_info_census_age.(strcat('y',num2str(c_years(j))))=out2(:,[1,2,4,3]);
 end
 %%usercost by equipment and consumption price
-[data_pi_k_usercost,trash] = xlsread(file_pcpk,'usercost','a2:c1439');  
+[temp] = readtable(file_pcpk,'Sheet','usercost');
+data_pi_k_usercost=temp{:,:};data_pi_k_usercost(end-2:end,:)=[];
 year_pi=[1959:1:2016];
-[data_pc,trash] = xlsread(file_pcpk,'pc','b25:b62'); 
-year_pc=[1982:1:2019];
+[temp] = readtable(file_pcpk,'Sheet','pc'); 
+data_pc=temp{:,:};data_pc(1:23,:)=[];data_pc=data_pc(:,2);year_pc=[1982:1:2019];
 %%usercost and capital stock by occupation
-[data_stock_occ_1,trash] = xlsread(file_pkocc,'Stock','a2:c385'); 
-[data_usercost_occ_1,trash] = xlsread(file_pkocc,'Pk','a2:c385'); 
+[temp] = readtable(file_pkocc,'Sheet','Stock'); data_stock_occ_1=temp{:,:};
+[temp] = readtable(file_pkocc,'Sheet','Pk');data_usercost_occ_1=temp{:,:};
 %%instrument for the estimation of rho
-[data_price_occ_1983,trash] = xlsread(file_pkocc,'Instrument','a2:c385'); 
+[temp] = readtable(file_pkocc,'Sheet','Instrument');data_price_occ_1983=temp{:,:};
 
 %% Re-organize the data 
 %%usercost by equipment and consumption price

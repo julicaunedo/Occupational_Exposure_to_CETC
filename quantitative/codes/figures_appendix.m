@@ -1,8 +1,10 @@
 %% Loading
-[count_all] = xlsread('../../empirics/modeldata/tool_shares.xlsx','tool_share','c2:z19');
-count_dot=count_all([1:2:18],:);
-count_onet=count_all([2:2:18],:);
-[computer_all] = xlsread('../../empirics/modeldata/tool_shares.xlsx','computer_use','c2:d19');
+file_tool='../../empirics/modeldata/tool_shares.xlsx';
+[temp] = readtable(file_tool,'Sheet','tool_share');count_all=temp{:,:};
+count_all(:,1:2)=[];
+count_dot=count_all([1:2:18],:);count_onet=count_all([2:2:18],:);
+[temp] = readtable(file_tool,'Sheet','computer_use');computer_all=temp{:,:};
+computer_all(:,1:2)=[];
 computer_all_1984=computer_all([1:2:18],:);
 computer_all_2003=computer_all([2:2:18],:);
 
