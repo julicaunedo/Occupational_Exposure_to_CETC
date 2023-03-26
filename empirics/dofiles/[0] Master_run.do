@@ -33,12 +33,19 @@ glo results= "$path_loc/results/"
 
 * Packages to install
 ssc install weibullfit
+ssc install ivreg2 
+ssc install ranktest
+
 
 /*
 ** Preserving the steps made in STATA
 capture log close
 log using "$path_wrk/Results/PrintedResults.log", replace
 */
+
+**Data processing, decompress IPUMS-CPS data
+do "$raw_data/IPUMS_CPS/READcps_wind.do"
+
 *** Section 1 ************************************** 
 * Construction of intermediate and final datasets
 ****************************************************

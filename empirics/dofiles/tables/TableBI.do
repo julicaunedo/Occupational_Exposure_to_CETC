@@ -10,6 +10,8 @@ Data from previous files
 
 
 * Program to estimate Cuantiles 
+glo path_wrk = "/Users/david/Dropbox/Feedbacks_human_physical_capital/Replication"
+
 
 use "$final_data/[10]stocks_occuCPS_2020_DOTONET_base85.dta", clear
 
@@ -194,6 +196,27 @@ loc variables summary
 foreach var of local variables {
 	drop _all
 	svmat double `var'
+	ren summary1 Annual_wage_growth
+	ren summary2 Wages_1984_2015_perc_ch
+	ren summary3 Employment_share_all
+	ren summary4 Employment_share_college
+
+	generate str var5 = "All Ocupations" in 1
+	replace var5 = "Bottom third" in 2
+	replace var5 = "Middle third" in 3
+	replace var5 = "Upper third" in 4
+	replace var5 = "Computers Third" in 5
+	replace var5 = "high CETC" in 6
+	replace var5 = "low CETC" in 7
+	
+	ren var5 names 
+	order 	names 
+	replace Annual_wage_growth=round(Annual_wage_growth, 0.1)
+    replace Wages_1984_2015_perc_ch=round(Wages_1984_2015_perc_ch, 0.1)
+    replace Employment_share_all=round(Employment_share_all, 0.1)
+    replace Employment_share_college=round(Employment_share_college, 0.1)
+	
+
 	outsheet using "$results/[TableB.I]CETC and changes in the labor market 1984-2015.xls", replace
 	}
 restore

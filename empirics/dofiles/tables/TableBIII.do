@@ -314,9 +314,11 @@ keep F_stat   general_occ rho_OR rho_OR_se rhobas_IVall rhobas_IVall_se dfuller_
 
 order  general_occ rho_OR rho_OR_se rhobas_IVall rhobas_IVall_se dfuller_z_raw F_stat 
 
-outsheet using "$results/[TableB.III]Elasticity of substitution between capital and labor.xls", replace
+* Save to append at the end of the code
+save "$intermediate_data/[TableB.III]Elasticity_temp.dta", replace
+
 keep general_occ rhobas_IVall
- export excel using "$model_data/Elasticities.xlsx", sheet(1_digit) sheetreplace firstrow(variables)
+export excel using "$model_data/Elasticities.xlsx", sheet(1_digit) sheetreplace firstrow(variables)
 
  
  
@@ -630,15 +632,59 @@ g F_stat=.
 
 
 keep   rho_basallcollapse rho_basallcollapse_se rho_ORIVall2aggcollapse rho_ORIVall2aggcollapse_se dfuller_z_raw F_stat
+*for model 
+preserve
+keep rho_ORIVall2aggcollapse
+export excel using "$model_data/Elasticities.xlsx", sheet(Aggregate_Elasticity) sheetreplace firstrow(variables)
+restore 
+
+* Table BIII format
 
  duplicates drop
 
-order   rho_basallcollapse rho_basallcollapse_se rho_ORIVall2aggcollapse rho_ORIVall2aggcollapse_se dfuller_z_raw F_stat 
+ gen general_occ = .
+ren rho_basallcollapse rho_OR
+ren rho_basallcollapse_se rho_OR_se
+ren rho_ORIVall2aggcollapse rhobas_IVall
+ren rho_ORIVall2aggcollapse_se rhobas_IVall_se
 
-outsheet using "$results/[TableB.III]Elasticity of substitution between capital and labor_aggregates.xls", replace
+ 
+ append using "$intermediate_data/[TableB.III]Elasticity_temp.dta"
+ 
+ 
+order  general_occ rho_OR rho_OR_se rhobas_IVall rhobas_IVall_se F_stat dfuller_z_raw  
 
-keep rho_ORIVall2aggcollapse
-export excel using "$model_data/Elasticities.xlsx", sheet(Aggregate_Elasticity) sheetreplace firstrow(variables)
+	ren rho_OR OLS
+	ren rho_OR_se OLS_se
+	ren rhobas_IVall IV
+	ren rhobas_IVall_se IV_se
+	ren dfuller_z_raw  Dickey_Fuller
+	ren F_stat Kleibergen_Paap
+
+	tostring general_occ, replace
+	replace general_occ = "Aggregate" in 1
+	replace general_occ = "Managers" in 2
+	replace general_occ = "Professionals" in 3
+	replace general_occ = "Technicians" in 4
+	replace general_occ = "Sales" in 5
+	replace general_occ = "Admin Service" in 6
+	replace general_occ = "Low-skilled Serv" in 7
+	replace general_occ = "Mechanics & Transp." in 8
+	replace general_occ = "Precision" in 9
+	replace general_occ = "Machine Operators" in 10
+	
+	
+	replace OLS=round(OLS, 0.01)
+    replace OLS_se=round(OLS_se, 0.01)
+    replace IV=round(IV, 0.01)
+    replace IV_se=round(IV_se, 0.01)
+	replace Kleibergen_Paap=round(Kleibergen_Paap, 0.01)
+	replace Dickey_Fuller=round(Dickey_Fuller, 0.01)
+
+
+outsheet using "$results/[TableB.III]Elasticity of substitution between capital and labor.xls", replace
+
+
 
 
   

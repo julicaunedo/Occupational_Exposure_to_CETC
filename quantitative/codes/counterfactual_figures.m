@@ -72,8 +72,8 @@ set(gca,'xTick',[1:1:n_o],'xTickLabel',occ_label_iso_w1980,'FontSize',font)
 xtickangle(45)
 set(gca,'ycolor','k')
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/51');
-print(h,'-depsc','../results/51');
+print(h,'-dpdf','../results/Figure_5_panel1');
+print(h,'-depsc','../results/Figure_5_panel1');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Figure 52
 ifig=52;
 xx=[1:1:n_o]; yy1=all_emp(:,1);yy=all_emp(:,2);yy=yy(in_w1980);yy1=yy1(in_w1980);
@@ -100,8 +100,8 @@ hline.Color = 'k';
 hline.LineWidth=2; 
 hline.LineStyle=':'; 
 hline.HandleVisibility='off';
-print(h,'-dpdf','../results/52');
-print(h,'-depsc','../results/52');
+print(h,'-dpdf','../results/Figure_5_panel2');
+print(h,'-depsc','../results/Figure_5_panel2');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Figure 6.1
 ifig=61;
 xx=[1:1:n_o]; yy1=all_emp(:,1);yy=all_emp(:,3);yy=yy(in_w1980);yy1=yy1(in_w1980);
@@ -129,8 +129,8 @@ hline.Color = 'k';
 hline.LineWidth=2; 
 hline.LineStyle=':'; 
 hline.HandleVisibility='off';
-print(h,'-dpdf','../results/61');
-print(h,'-depsc','../results/61');
+print(h,'-dpdf','../results/Figure_6_panel1');
+print(h,'-depsc','../results/Figure_6_panel1');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Figure 62
 ifig=62;
 xx=[1:1:n_o]; yy1=all_emp(:,1);yy=all_emp(:,4);yy2=all_emp(:,5);yy3=all_emp(:,6);
@@ -161,5 +161,5 @@ hline.Color = 'k';
 hline.LineWidth=2; 
 hline.LineStyle=':'; 
 hline.HandleVisibility='off';
-print(h,'-dpdf','../results/62');
-print(h,'-depsc','../results/62');
+print(h,'-dpdf','../results/Figure_6_panel2');
+print(h,'-depsc','../results/Figure_6_panel2');

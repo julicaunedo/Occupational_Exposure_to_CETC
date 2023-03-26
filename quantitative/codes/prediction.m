@@ -126,8 +126,8 @@ hline.Color = 'k';
 hline.LineWidth=2; 
 hline.LineStyle=':'; 
 hline.HandleVisibility='off';
-print(h,'-dpdf','../results/71');
-print(h,'-depsc','../results/71');
+print(h,'-dpdf','../results/Figure_7_panel1');
+print(h,'-depsc','../results/Figure_7_panel1');
 %%%% Figure 7.2   
 xx=c_years(ii_selt); 
 ifig=72;
@@ -142,8 +142,8 @@ hline.LineStyle=':';
 hline.HandleVisibility='off';
 ylabel('Skill premium','FontName','Times New Roman','fontsize',font) 
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/72');
-print(h,'-depsc','../results/72');
+print(h,'-dpdf','../results/Figure_7_panel2');
+print(h,'-depsc','../results/Figure_7_panel2');
 %%%% Figure 7.3   
 xx=c_years(ii_selt); 
 ifig=73;
@@ -158,8 +158,8 @@ hline.LineStyle=':';
 hline.HandleVisibility='off';
 ylabel('Gender gap','FontName','Times New Roman','fontsize',font) 
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/73');
-print(h,'-depsc','../results/73');
+print(h,'-dpdf','../results/Figure_7_panel3');
+print(h,'-depsc','../results/Figure_7_panel3');
 %%%% Figure 7.4   
 xx=c_years(ii_selt); 
 ifig=74;
@@ -176,5 +176,5 @@ hline.LineStyle=':';
 hline.HandleVisibility='off';
 ylabel('Age premium','FontName','Times New Roman','fontsize',font) 
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/74');
-print(h,'-depsc','../results/74');
+print(h,'-dpdf','../results/Figure_7_panel4');
+print(h,'-depsc','../results/Figure_7_panel4');

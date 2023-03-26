@@ -97,4 +97,36 @@ mat pvalues = J(8,11,.)
 	drop _all
 	svmat double pvalues
 	drop pvalues7 pvalues9
+	
+	* Format table
+	
+	ren pvalues2 Professionals
+	ren pvalues3 Technicians
+	ren pvalues4 Sales
+	ren pvalues5 Admininstrative_services
+	ren pvalues6 Low_skilled_services
+	ren pvalues8 Mechanics_and_transportation
+	ren pvalues10 Precision
+	ren pvalues11 Machine_operators
+	
+	tostring pvalues1, replace
+	replace pvalues1 = "Managers" in 1
+	replace pvalues1 = "Professionals" in 2
+	replace pvalues1 = "Technicians" in 3
+	replace pvalues1 = "Sales" in 4
+	replace pvalues1 = "Admin serv." in 5
+	replace pvalues1 = "Low-skill services" in 6
+	replace pvalues1 = "Mechanics & Transportation" in 7
+	replace pvalues1 = "Precision" in 8
+	
+	replace Professionals=round(Professionals, 0.01)
+    replace Technicians=round(Technicians, 0.01)
+    replace Sales=round(Sales, 0.01)
+    replace Admininstrative_services=round(Admininstrative_services, 0.01)
+	replace Low_skilled_services=round(Low_skilled_services, 0.01)
+	replace Mechanics_and_transportation=round(Mechanics_and_transportation, 0.01)
+	replace Precision=round(Precision, 0.01)
+	replace Machine_operators=round(Machine_operators, 0.01)
+	
+	
 	outsheet using "$results/[TableB.II]P_values_elasticities.xls", replace

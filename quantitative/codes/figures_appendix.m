@@ -31,8 +31,8 @@ ylabel('computer tool share, % ','FontName','Times New Roman','fontsize',font)
 set(gca,'xTick',[1:1:9],'xTickLabel',occ_label_iso_w1980,'FontSize',font)
 xtickangle(45)
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/B_I_1');
-print(h,'-depsc','../results/B_I_1');
+print(h,'-dpdf','../results/Figure_BI_panel1');
+print(h,'-depsc','../results/Figure_BI_panel1');
 %%Figure BI, panel (b)
 ifig=ifig+1;
 xx=count_dot*100; 
@@ -49,8 +49,8 @@ ylabel('communication tool share, % ','FontName','Times New Roman','fontsize',fo
 set(gca,'xTick',[1:1:9],'xTickLabel',occ_label_iso_w1980,'FontSize',font)
 xtickangle(45)
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/B_I_2');
-print(h,'-depsc','../results/B_I_2');
+print(h,'-dpdf','../results/Figure_BI_panel2');
+print(h,'-depsc','../results/Figure_BI_panel2');
 %%Figure BII panel (a)
 ifig=91;
 xx=computer_all_1984(:,1)*100; 
@@ -67,8 +67,8 @@ ylabel('share in 1984, % ','FontName','Times New Roman','fontsize',font)
 set(gca,'xTick',[1:1:9],'xTickLabel',occ_label_iso_w1980,'FontSize',font)
 xtickangle(45)
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/B_II_1');
-print(h,'-depsc','../results/B_II_1');
+print(h,'-dpdf','../results/Figure_BII_panel1');
+print(h,'-depsc','../results/Figure_BII_panel1');
 %%Figure BII panel (b)
 ifig=ifig+1;
 xx=computer_all_2003(:,1)*100; 
@@ -85,5 +85,5 @@ ylabel('share in 2003, % ','FontName','Times New Roman','fontsize',font)
 set(gca,'xTick',[1:1:9],'xTickLabel',occ_label_iso_w1980,'FontSize',font)
 xtickangle(45)
 set(gca,'FontSize',font)
-print(h,'-dpdf','../results/B_II_2');
-print(h,'-depsc','../results/B_II_2');
+print(h,'-dpdf','../results/Figure_BII_panel2');
+print(h,'-depsc','../results/Figure_BII_panel2');
