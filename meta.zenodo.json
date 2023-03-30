@@ -1,0 +1,32 @@
+{
+   "description":"<p>Updated ReadMe and structure</p>",
+   "license":"other-open",
+   "title":"julicaunedo/Replication package for: Occupational Exposure to Capital Embodied Technical Change",
+   "version":"v3",
+   "upload_type":"software",
+   "publication_date":"2023-03-29",
+   "creators":[
+      {
+         "name":"Julieta Caunedo"
+      },
+      {
+         "name":"David Jaume"
+      },
+      {
+         "name":"Elisa Keller"
+      }
+   ],
+   "access_right":"open",
+   "related_identifiers":[
+      {
+         "scheme":"url",
+         "identifier":"https://github.com/julicaunedo/Occupational_Exposure_to_CETC/tree/v3",
+         "relation":"isSupplementTo"
+      },
+      {
+         "scheme":"doi",
+         "identifier":"10.5281/zenodo.7582093",
+         "relation":"isVersionOf"
+      }
+   ]
+}
